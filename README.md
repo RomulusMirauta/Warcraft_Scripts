@@ -27,8 +27,12 @@
 
 ## Warcraft I: Remastered - Utility Script
 
-> Battle.net Link for `Warcraft® I: Remastered`: https://eu.shop.battle.net/en-us/product/warcraft-1-remastered<br>
-> Battle.net Link for `Warcraft® Remastered Battle Chest®`: https://eu.shop.battle.net/en-us/product/warcraft-remastered-battle-chest
+> Battle.net Link for `Warcraft® I: Remastered`:<br>
+> https://eu.shop.battle.net/en-us/product/warcraft-1-remastered<br>
+>
+> Battle.net Link for `Warcraft® Remastered Battle Chest®`:<br>
+> https://eu.shop.battle.net/en-us/product/warcraft-remastered-battle-chest
+
 
 ### ***Purpose:*** Creating workarounds for missing features like quick saving and quick loading, as well as automating the game speed changing.
 
