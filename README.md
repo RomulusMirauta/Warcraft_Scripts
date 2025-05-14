@@ -37,7 +37,7 @@
 ### ***Purpose:*** Creating workarounds for missing features like quick saving and quick loading, as well as automating the game speed changing.
 
 
-### You can download the script from here: [Warcraft-1-Remastered_Utility_v1.0.exe](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/Warcraft-1-Remastered_Utility_v1.0.exe)
+### You can download the latest version of the script from here: [Warcraft-1-Remastered_Utility_v1.0.exe](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/Warcraft-1-Remastered_Utility_v1.0.exe)
 
 
 ### How to use:
