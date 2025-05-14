@@ -33,27 +33,32 @@
 > Battle.net Link for `Warcraft® Remastered Battle Chest®`:<br>
 > https://eu.shop.battle.net/en-us/product/warcraft-remastered-battle-chest
 
+<br>
 
-### ***Purpose:*** Creating workarounds for missing features like quick saving and quick loading, as well as automating the game speed changing.
-
-
-### You can download the latest version of the script from here: [Warcraft-1-Remastered_Utility_v1.0.exe](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/Warcraft-1-Remastered_Utility_v1.0.exe)
-
-
-### How to use:
-1. Hotkey for instantly saving the game - Press `F6`
-2. Hotkey for instantly loading the latest save game - Press `F7`
-   
-
-
-***Upcoming Features***
-
-
-
-3. Change the game speed on the press of a button - slower - Press `F1`
-4. Change the game speed on the press of a button - faster - Press `F2`
+### ***Purpose:*** Creating workarounds for missing features like quick saving and quick loading, as well as automating the game speed changing and more.
 
 <br>
 
-*Press `F11` to **Reload** the script<br>
-**Press `F12` to **Exit/Close** the script<br>
+### You can download the latest version of the script from here: [Warcraft-1-Remastered_Utility_v1.1.zip](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/v1.1/Warcraft-1-Remastered_Utility_v1.1.zip)
+
+<br>
+
+### How to use:
+- Change the game speed on the press of a button - **slower** - Press `F1`
+- Change the game speed on the press of a button - **faster** - Press `F2`
+
+<br>
+
+- Hotkey for instantly **saving** the game - Press `F6`
+- Hotkey for instantly **loading** the latest save game - Press `F7`<br>
+
+<br>
+
+- **Reload** the script - Press `F11` 
+- **Exit/Close** the script - Press `F12` 
+
+<br>
+
+### ***Upcoming Features/Fixes***
+- addressing bugs
+- *TBA*
