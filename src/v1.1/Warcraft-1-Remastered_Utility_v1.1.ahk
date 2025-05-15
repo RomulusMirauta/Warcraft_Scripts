@@ -125,80 +125,8 @@ F7:: {
 }
 
 
-; Hotkey for instantly changing the game speed - faster
-F1:: {
-
-    if !WinExist(appTitle) {
-        MsgBox "The application is not running. Script will not execute."
-        Return
-    }
-
-    if !WinActive(appTitle) {
-        MsgBox "Please make sure the application is active."
-        Return
-    }
-
-    ; Opens the game menu
-    Send "{F10}"
-    Sleep 50
-
-    ; Clicks the "Options" button
-    MouseMove 955, 330
-    Sleep 50
-    Click "Down"
-    Sleep 50
-    Click "Up"
-    Sleep 50
-
-    ; Workaround: moves mouse cursor to a neutral position - middle of the screen => solves slider color change issue
-    MouseMove 950, 500
-    Sleep 50
-
-
-    ;   -----   Searches for the "Game Speed" slider   -----   ;
-
-    ; Top-left corner coordinates
-    X1 := 620
-    Y1 := 295
-
-    ; Bottom-right corner coordinates
-    X2 := 1258
-    Y2 := 361
-
-    ImageFile := "W1_GameSpeedSlider.png"
-
-    ; Searches for an image on the screen
-    ImageSearch &OutputVarX, &OutputVarY, X1, Y1, X2, Y2, ImageFile
-    Sleep 50
-
-
-    try {
-        ; Moves mouse cursor to the "Game Speed" slider
-        MouseMove OutputVarX, OutputVarY
-
-        ; Moves the "Game Speed" slider
-        SendEvent "{Click Down} {Click 1261, 329 Up}"
-
-        ; Exits the menu
-        Send "{Escape}"
-    } catch {
-        ; If the image is not found, show a message box
-        ; MsgBox "Game Speed slider not found! Try again."
-    }
-    
-
-    ; Workaround: solves ImageSearch issues/limitations
-    loop 2 {
-        Send "!{Enter}"
-        Sleep 50
-    }
-
-    Return
-}
-
-
 ; Hotkey for instantly changing the game speed - slower
-F2:: {
+F1:: {
     
     if !WinExist(appTitle) {
         MsgBox "The application is not running. Script will not execute."
@@ -266,5 +194,77 @@ F2:: {
         Sleep 50
     }
     
+    Return
+}
+
+
+; Hotkey for instantly changing the game speed - faster
+F2:: {
+
+    if !WinExist(appTitle) {
+        MsgBox "The application is not running. Script will not execute."
+        Return
+    }
+
+    if !WinActive(appTitle) {
+        MsgBox "Please make sure the application is active."
+        Return
+    }
+
+    ; Opens the game menu
+    Send "{F10}"
+    Sleep 50
+
+    ; Clicks the "Options" button
+    MouseMove 955, 330
+    Sleep 50
+    Click "Down"
+    Sleep 50
+    Click "Up"
+    Sleep 50
+
+    ; Workaround: moves mouse cursor to a neutral position - middle of the screen => solves slider color change issue
+    MouseMove 950, 500
+    Sleep 50
+
+
+    ;   -----   Searches for the "Game Speed" slider   -----   ;
+
+    ; Top-left corner coordinates
+    X1 := 620
+    Y1 := 295
+
+    ; Bottom-right corner coordinates
+    X2 := 1258
+    Y2 := 361
+
+    ImageFile := "W1_GameSpeedSlider.png"
+
+    ; Searches for an image on the screen
+    ImageSearch &OutputVarX, &OutputVarY, X1, Y1, X2, Y2, ImageFile
+    Sleep 50
+
+
+    try {
+        ; Moves mouse cursor to the "Game Speed" slider
+        MouseMove OutputVarX, OutputVarY
+
+        ; Moves the "Game Speed" slider
+        SendEvent "{Click Down} {Click 1261, 329 Up}"
+
+        ; Exits the menu
+        Send "{Escape}"
+    } catch {
+        ; If the image is not found, show a message box
+        ; MsgBox "Game Speed slider not found! Try again."
+    }
+    
+
+    ; Workaround: solves ImageSearch issues/limitations
+    loop 2 {
+        Send "!{Enter}"
+        Sleep 50
+    }
+
     Return
 }
