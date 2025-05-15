@@ -39,18 +39,22 @@
 
 <br>
 
-### You can download the latest version of the script from here: <br> [Warcraft-1-Remastered_Utility_v1.1.zip](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/v1.1/Warcraft-1-Remastered_Utility_v1.1.zip)
+### You can download the latest version of the script from here: <br> [Warcraft-1-Remastered_Utility_v1.2.exe](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/v1.2/Warcraft-1-Remastered_Utility_v1.2.exe)
 
 <br>
 
 ### How to use:
-- Change the game speed on the press of a button - **slower** - Press `F1`
-- Change the game speed on the press of a button - **faster** - Press `F2`
+- Change the game speed:
+  - **Slower** - Press `F1`
+  - **Faster** - Press `F2`
+  - **Slowest** - Press `SHIFT` + `F1`
+  - **Fastest** - Press `SHIFT` + `F2`
 
 <br>
 
-- Hotkey for instantly **saving** the game - Press `F6`
-- Hotkey for instantly **loading** the latest save game - Press `F7`<br>
+- Hotkeys for instantly saving/loading the game - similar to quicksave/quickload:
+  - **Save** the game - Press `F6`
+  - **Load** the latest save game - Press `F7`<br>
 
 <br>
 
