@@ -39,7 +39,7 @@
 
 <br>
 
-### You can download the latest version of the script from here: <br> [Warcraft-1-Remastered_Utility_v1.2.exe](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/v1.2/Warcraft-1-Remastered_Utility_v1.2.exe)
+### You can download the latest version of the script from here: <br> [Warcraft-1-Remastered_Utility_v1.3.exe](https://raw.githubusercontent.com/RomulusMirauta/Warcraft_Scripts/main/compiled/v1.3/Warcraft-1-Remastered_Utility_v1.3.exe)
 
 <br>
 
