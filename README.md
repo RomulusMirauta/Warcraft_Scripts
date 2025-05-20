@@ -27,11 +27,18 @@
 
 ## Warcraft I: Remastered - Utility Script
 
-> Battle.net Link for `Warcraft® I: Remastered`:<br>
+> ### Useful Links <br>
+> - Battle.net Link for `Warcraft® I: Remastered`:<br>
 > https://eu.shop.battle.net/en-us/product/warcraft-1-remastered<br>
 >
-> Battle.net Link for `Warcraft® Remastered Battle Chest®`:<br>
-> https://eu.shop.battle.net/en-us/product/warcraft-remastered-battle-chest
+> - Battle.net Link for `Warcraft® Remastered Battle Chest®`:<br>
+> https://eu.shop.battle.net/en-us/product/warcraft-remastered-battle-chest <br>
+> - Others <br> [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
+
+<br>
+
+ - Others
+   - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
 
 <br>
 
