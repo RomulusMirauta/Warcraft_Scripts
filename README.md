@@ -33,12 +33,7 @@
 >
 > - Battle.net Link for `Warcraft® Remastered Battle Chest®`:<br>
 > https://eu.shop.battle.net/en-us/product/warcraft-remastered-battle-chest <br>
-> - Others <br> [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
-
-<br>
-
- - Others
-   - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
+> - PCGamingWiki <br> https://www.pcgamingwiki.com/wiki/Warcraft_I_Remastered
 
 <br>
 
