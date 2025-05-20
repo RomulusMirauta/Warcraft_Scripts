@@ -44,7 +44,7 @@
 <br>
 
 ### How to use:
-- Change the game speed:
+- Hotkeys for changing the game speed:
   - **Slower** - Press `F1`
   - **Faster** - Press `F2`
   - **Slowest** - Press the key combination: `SHIFT` `F1`
@@ -52,7 +52,7 @@
 
 <br>
 
-- Hotkeys for instantly saving/loading the game - similar to quicksave/quickload:
+- Hotkeys for instantly saving/loading the game - similar to quicksave/quickload features of other games:
   - **Save** the game - Press `F6`
   - **Load** the latest save game - Press `F7`<br>
 
@@ -64,7 +64,7 @@
 
 <br>
 
-- **Unlocks** all campaign levels *(requires a game restart)* - Press the key combination: `CTRL` `SHIFT` `U`
+- Hotkey for **unlocking** all campaign levels *(Orc & Human, requires a game restart)* - Press the key combination: `CTRL` `SHIFT` `U`
 
 <br>
 
