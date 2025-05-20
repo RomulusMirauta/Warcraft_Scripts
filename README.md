@@ -47,14 +47,24 @@
 - Change the game speed:
   - **Slower** - Press `F1`
   - **Faster** - Press `F2`
-  - **Slowest** - Press `SHIFT` + `F1`
-  - **Fastest** - Press `SHIFT` + `F2`
+  - **Slowest** - Press the key combination: `SHIFT` `F1`
+  - **Fastest** - Press the key combination: `SHIFT` `F2`
 
 <br>
 
 - Hotkeys for instantly saving/loading the game - similar to quicksave/quickload:
   - **Save** the game - Press `F6`
   - **Load** the latest save game - Press `F7`<br>
+
+<br>
+
+- Hotkeys for moving/deleting all save game files located inside the default folder <br> *("C:\Users\<CurrentUsername>\Saved Games\WarcraftRemastered")*
+  - **Moves** them to a new OldSaveGames folder - Press the key combination: `CTRL` `SHIFT` `M`
+  - **Deletes** them ***permanently*** - Press the key combination: `CTRL` `SHIFT` `D`
+
+<br>
+
+- **Unlocks** all campaign levels *(requires a game restart)* - Press the key combination: `CTRL` `SHIFT` `U`
 
 <br>
 
