@@ -60,7 +60,7 @@
 
 <br>
 
-- Hotkeys for moving/deleting all save game files located inside the default folder <br> *("C:\Users\<CurrentUsername>\Saved Games\WarcraftRemastered")*
+- Hotkeys for moving/deleting all save game files located inside the default folder <br> *("C:\Users\\%CurrentUsername%\Saved Games\WarcraftRemastered")*
   - **Moves** them to a new "OldSaveGames" folder - Press the key combination: `CTRL` `SHIFT` `M`
   - **Deletes** them ***permanently*** - Press the key combination: `CTRL` `SHIFT` `D`
 
